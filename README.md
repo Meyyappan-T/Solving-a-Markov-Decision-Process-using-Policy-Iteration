@@ -291,6 +291,8 @@ env.close()
 ## Output
 ### Intital Policy
 <img width="476" height="580" alt="image" src="https://github.com/user-attachments/assets/58a7f9e7-7f8e-4566-b4f4-735f71757f49" />
+
+<br>
 ### Final Policy
 <img width="333" height="352" alt="image" src="https://github.com/user-attachments/assets/dc23f9de-a35b-4250-83c7-29b408aa5525" />
 
